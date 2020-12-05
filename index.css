@@ -5,9 +5,9 @@ html {
 }
 
 #grad {
-    height: 1000px;
+    height: 600px;
     background: rgb(2,0,36);
-    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(85, 12, 201,1) 100%);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(78, 12, 201,1) 100%);
   }
   #grad2 {
       height: 1000px;
@@ -15,7 +15,7 @@ html {
       background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(2,0,36,1) 100%);
     }
     #grad3 {
-        height: 1000px;
+        height: 750px;
         background: rgb(34,193,195);
         background: linear-gradient(0deg, rgba(150, 40, 2,1) 0%, rgba(2,0,36,1) 100%);
       }
