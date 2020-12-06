@@ -7,7 +7,7 @@ html {
 #grad {
     height: 600px;
     background: rgb(2,0,36);
-    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(78, 12, 201,1) 100%);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(8, 60, 133,1) 100%);
   }
   #grad2 {
       height: 1000px;
